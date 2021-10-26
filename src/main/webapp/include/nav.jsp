@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title hereaaaaaaaaaaaaaaaaaaaa</title>
+<title>Insert title here</title>
 </head>
 <body>
-
-
-<h1>모두들 환영합니다.</h1>
-<br>
 
 </body>
 </html>
