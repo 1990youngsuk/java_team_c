@@ -8,11 +8,13 @@
 </head>
 <body>
 hello, world!
+<br>
+
 <%
 int a = 5;
 int b = 10;
 
-out.print(a + b);
+out.print(a + b); 
 %>
 </body>
 </html>
