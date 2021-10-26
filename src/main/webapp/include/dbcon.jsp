@@ -20,7 +20,7 @@ String userpass = "124579";
 
  /* 접속 드라이브 연결 */
  //Class.forName("com.mysql.jdbc.Driver");
- Class.forName("oracle.jdbc.OracleDriver");
+ Class.forName("oracle.jdbc.OracleDriver"); 
 
  /* 접속 정보 설정 및 적용 */
  Connection conn=DriverManager.getConnection (url,username,userpass);
